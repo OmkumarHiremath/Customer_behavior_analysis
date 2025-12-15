@@ -115,9 +115,3 @@ Designed for **decision-makers**, not just analysts.
 * Power BI dashboard
 * Final presentation (Gamma)
 * Original dataset
-
----
-
-👔 **Why This Project Matters**
-This project demonstrates **end-to-end data analytics skills**—from understanding a real business problem to delivering insights that drive decisions.
-It highlights strong fundamentals in **Python, SQL, data visualization, and business storytelling**, making it well-suited for **Data Analyst or Business Analyst roles**.
